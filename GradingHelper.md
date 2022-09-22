@@ -1,9 +1,3 @@
-Your name, assignment name/number, course name, term
-Section describing anything incomplete about the assignment
-Section describing something you’re proud of about the assignment
-Section that lists the File Name and Line Number for all code requirements
-one example is enough if there are multiple instances
-
 # hyunwoo.nam,  Assignment - Optimization, cs180f22, 2022fall
 # Section describing anything incomplete about the assignment
 
